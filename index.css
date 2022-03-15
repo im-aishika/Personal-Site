@@ -9,9 +9,12 @@ html{
 h1{
   color: #781D42;
 }
-h2, h3{
+h2{
   color: #781D42;
   margin-left: 15px;
+}
+h3{
+  color: #781D42;
 }
 hr{
   width: 15%;
