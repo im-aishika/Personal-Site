@@ -4,7 +4,9 @@ body{
 }
 
 html{
-  background-color: #D9D7F1;
+  /* background-color: #D9D7F1; */
+  background-color: black;
+  color: white;
 }
 footer{
   display: flex;
