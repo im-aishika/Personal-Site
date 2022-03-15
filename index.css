@@ -1,0 +1,17 @@
+
+body{
+  margin-left: 15px;
+}
+
+html{
+  background-color: #D9D7F1;
+}
+footer{
+  display: flex;
+  font-size: 1.15em;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  background-color: #180A0A;
+  color: white;
+}
